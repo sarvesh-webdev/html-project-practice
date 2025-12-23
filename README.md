@@ -15,3 +15,9 @@ A beginner HTML project built by following the freeCodeCamp YouTube tutorial. It
 - favicon.ico — Site icon
 👨‍💻 Made by Sarvesh Chaudhari
 For HTML practice and learning.
+
+## SCREENSHOTS
+
+![HOMEPAGE](assets/homepage.png) 
+![STOREHOURS-PAGE](assets/shophour.png)
+![CONTACT-PAGE](assets/contact.png)
